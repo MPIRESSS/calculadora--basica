@@ -5,17 +5,17 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hsl(309, 52%, 75%);
+    background-color: hsl(253, 100%, 50%);
     }  
   .calculator {
-    border: 1px solid hsl(0, 77%, 57%);
+    border: 1px solid hsl(310, 100%, 58%);
     width: 500px;
     text-align: center;
     padding: 10px;
   }
   .number {
-    background-color: #ef23d0; /* Cor de fundo azul */
-    color: hsl(108, 94%, 49%); /* Cor do texto branca */
+    background-color: #23ef3485; /* Cor de fundo azul */
+    color: hsla(17, 75%, 40%, 0.842); /* Cor do texto branca */
   }
   
   #display {
